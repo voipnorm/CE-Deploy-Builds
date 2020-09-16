@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8cb9000-6f30-4cd4-b620-a1d562d21d40" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Version 5_0_1/mac/CE-Deploy-5.0.1.dmg" afterPath="$PROJECT_DIR$/Version 5_0_2/mac/CE-Deploy-5.0.2.dmg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Version 5_0_1/win/CE-Deploy Setup 5.0.1.exe" afterPath="$PROJECT_DIR$/Version 5_0_2/win/CE-Deploy Setup 5.0.2.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Version 5_0_3/mac/CE-Deploy-5.0.3.dmg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Version 5_0_3/win/CE-Deploy Setup 5.0.3.exe" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Version 5_0_2/mac/CE-Deploy-5.0.2.dmg" afterPath="$PROJECT_DIR$/Version 5_0_3/mac/CE-Deploy-5.0.3.dmg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Version 5_0_2/win/CE-Deploy Setup 5.0.2.exe" afterPath="$PROJECT_DIR$/Version 5_0_3/win/CE-Deploy Setup 5.0.3.exe" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -77,7 +79,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Version 5_0_2" />
+              <option name="myItemId" value="Version 5_0_3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -112,17 +114,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Version 5_0_2/win" />
-      <recent name="$PROJECT_DIR$/Version 5_0_2/mac" />
-      <recent name="$PROJECT_DIR$/Version 5_0_1/win" />
-      <recent name="$PROJECT_DIR$/Version 5_0_1/mac" />
-      <recent name="$PROJECT_DIR$/Version 5_0_0Beta/win" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Version 3_1_6/win" />
       <recent name="$PROJECT_DIR$/Version 3_1_6/mac" />
       <recent name="$PROJECT_DIR$/Version 3_1_6" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Version 5_0_3/win" />
+      <recent name="$PROJECT_DIR$/Version 5_0_3/mac" />
+      <recent name="$PROJECT_DIR$/Version 5_0_2/win" />
+      <recent name="$PROJECT_DIR$/Version 5_0_2/mac" />
+      <recent name="$PROJECT_DIR$/Version 5_0_1/win" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -228,7 +230,8 @@
       <workItem from="1595275370188" duration="1807000" />
       <workItem from="1598887252162" duration="1830000" />
       <workItem from="1598899654814" duration="2911000" />
-      <workItem from="1599182015258" duration="8000" />
+      <workItem from="1599182015258" duration="1192000" />
+      <workItem from="1600267483757" duration="209000" />
     </task>
     <task id="LOCAL-00001" summary="Version 3.1.6">
       <created>1584728124752</created>
@@ -307,11 +310,18 @@
       <option name="project" value="LOCAL" />
       <updated>1598987251162</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Version 5.0.2 update">
+      <created>1599182034447</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1599182034447</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17085000" />
+    <option name="totallyTimeSpent" value="18478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="277" width="1429" height="582" extended-state="0" />
@@ -319,12 +329,12 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5653061" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -350,7 +360,8 @@
     <MESSAGE value="New release 5.0.0 Beta MAC Build" />
     <MESSAGE value="New release 5.0.0 Beta Rebuilds" />
     <MESSAGE value="Version 5.0.1 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 5.0.1 update" />
+    <MESSAGE value="Version 5.0.2 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 5.0.2 update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
