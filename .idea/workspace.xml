@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8cb9000-6f30-4cd4-b620-a1d562d21d40" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Version 5_0_3/mac/CE-Deploy-5.0.3.dmg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Version 5_0_3/win/CE-Deploy Setup 5.0.3.exe" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Version 5_0_2/mac/CE-Deploy-5.0.2.dmg" afterPath="$PROJECT_DIR$/Version 5_0_3/mac/CE-Deploy-5.0.3.dmg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Version 5_0_2/win/CE-Deploy Setup 5.0.2.exe" afterPath="$PROJECT_DIR$/Version 5_0_3/win/CE-Deploy Setup 5.0.3.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Version 5_0_4ES/mac/CE-Deploy-5.0.4.dmg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Version 5_0_4ES/win/CE-Deploy Setup 5.0.4.exe" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -55,7 +53,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -66,6 +63,42 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="CE-DeployBuilds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CE-DeployBuilds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CE-DeployBuilds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Version 5_0_4ES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="win" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CE-DeployBuilds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CE-DeployBuilds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Version 5_0_4ES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mac" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -99,6 +132,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -114,17 +148,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Version 5_0_4ES/win" />
+      <recent name="$PROJECT_DIR$/Version 5_0_4ES/mac" />
+      <recent name="$PROJECT_DIR$/Version 5_0_3/win" />
+      <recent name="$PROJECT_DIR$/Version 5_0_3/mac" />
+      <recent name="$PROJECT_DIR$/Version 5_0_2/win" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Version 3_1_6/win" />
       <recent name="$PROJECT_DIR$/Version 3_1_6/mac" />
       <recent name="$PROJECT_DIR$/Version 3_1_6" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Version 5_0_3/win" />
-      <recent name="$PROJECT_DIR$/Version 5_0_3/mac" />
-      <recent name="$PROJECT_DIR$/Version 5_0_2/win" />
-      <recent name="$PROJECT_DIR$/Version 5_0_2/mac" />
-      <recent name="$PROJECT_DIR$/Version 5_0_1/win" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -231,7 +265,8 @@
       <workItem from="1598887252162" duration="1830000" />
       <workItem from="1598899654814" duration="2911000" />
       <workItem from="1599182015258" duration="1192000" />
-      <workItem from="1600267483757" duration="209000" />
+      <workItem from="1600267483757" duration="1028000" />
+      <workItem from="1601487531184" duration="649000" />
     </task>
     <task id="LOCAL-00001" summary="Version 3.1.6">
       <created>1584728124752</created>
@@ -317,11 +352,18 @@
       <option name="project" value="LOCAL" />
       <updated>1599182034447</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Version 5.0.3 update">
+      <created>1600268067166</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600268067166</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18478000" />
+    <option name="totallyTimeSpent" value="19946000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="277" width="1429" height="582" extended-state="0" />
@@ -361,7 +403,8 @@
     <MESSAGE value="New release 5.0.0 Beta Rebuilds" />
     <MESSAGE value="Version 5.0.1 update" />
     <MESSAGE value="Version 5.0.2 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 5.0.2 update" />
+    <MESSAGE value="Version 5.0.3 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 5.0.3 update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
