@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8cb9000-6f30-4cd4-b620-a1d562d21d40" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Version 5_0_4ES/mac/CE-Deploy-5.0.4.dmg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Version 5_0_4ES/win/CE-Deploy Setup 5.0.4.exe" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Version 5_0_4ES/win/CE-Deploy Setup 5.0.4.exe" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Version 5_0_4ES/mac/CE-Deploy-5.0.4.dmg" afterPath="$PROJECT_DIR$/Version 5_1_0/mac/CE-Deploy-5.1.0.dmg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Version 5_0_4ES/win/CE-Deploy Setup 5.0.4.exe" afterPath="$PROJECT_DIR$/Version 5_1_0/win/CE-Deploy Setup 5.1.0.exe" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -76,29 +77,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Version 5_0_4ES" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="win" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CE-DeployBuilds" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CE-DeployBuilds" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Version 5_0_4ES" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mac" />
+              <option name="myItemId" value="Version 5_1_0" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -148,17 +127,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Version 5_0_4ES/win" />
-      <recent name="$PROJECT_DIR$/Version 5_0_4ES/mac" />
-      <recent name="$PROJECT_DIR$/Version 5_0_3/win" />
-      <recent name="$PROJECT_DIR$/Version 5_0_3/mac" />
-      <recent name="$PROJECT_DIR$/Version 5_0_2/win" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Version 3_1_6/win" />
       <recent name="$PROJECT_DIR$/Version 3_1_6/mac" />
       <recent name="$PROJECT_DIR$/Version 3_1_6" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Version 5_1_0/win" />
+      <recent name="$PROJECT_DIR$/Version 5_1_0/mac" />
+      <recent name="$PROJECT_DIR$/Version 5_0_4ES/win" />
+      <recent name="$PROJECT_DIR$/Version 5_0_4ES/mac" />
+      <recent name="$PROJECT_DIR$/Version 5_0_3/win" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -266,7 +245,8 @@
       <workItem from="1598899654814" duration="2911000" />
       <workItem from="1599182015258" duration="1192000" />
       <workItem from="1600267483757" duration="1028000" />
-      <workItem from="1601487531184" duration="649000" />
+      <workItem from="1601487531184" duration="1290000" />
+      <workItem from="1601908650694" duration="1513000" />
     </task>
     <task id="LOCAL-00001" summary="Version 3.1.6">
       <created>1584728124752</created>
@@ -359,11 +339,18 @@
       <option name="project" value="LOCAL" />
       <updated>1600268067166</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Version 5.0.3 update">
+      <created>1601489497874</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1601489497874</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19946000" />
+    <option name="totallyTimeSpent" value="22100000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="277" width="1429" height="582" extended-state="0" />
