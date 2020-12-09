@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8cb9000-6f30-4cd4-b620-a1d562d21d40" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Version 5_1_4/win/CE-Deploy Setup 5.1.4.exe" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Version 5_1_4/mac/CE-Deploy-5.1.4.dmg" afterPath="$PROJECT_DIR$/Version5_1_5/mac/CE-Deploy-5.1.5.dmg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Version 5_1_4/win/CE-Deploy Setup 5.1.4.exe" afterPath="$PROJECT_DIR$/Version5_1_5/win/CE-Deploy Setup 5.1.5.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Version 6_0_2Alpha/win/CE-Deploy Setup 6.0.2.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -31,8 +29,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="54" />
-    <option name="y" value="277" />
+    <option name="x" value="526" />
+    <option name="y" value="321" />
     <option name="width" value="1429" />
     <option name="height" value="830" />
   </component>
@@ -54,8 +52,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -65,6 +61,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="CE-DeployBuilds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CE-DeployBuilds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CE-DeployBuilds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Version 6_0_2Alpha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="win" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -112,6 +126,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -127,17 +143,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Version5_1_5/win" />
-      <recent name="$PROJECT_DIR$/Version5_1_5/mac" />
-      <recent name="$PROJECT_DIR$/Version 5_1_4/win" />
-      <recent name="$PROJECT_DIR$/Version 5_1_4/mac" />
-      <recent name="$PROJECT_DIR$/Version 5_1_3/win" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Version 3_1_6/win" />
       <recent name="$PROJECT_DIR$/Version 3_1_6/mac" />
       <recent name="$PROJECT_DIR$/Version 3_1_6" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Version 6_0_2Alpha/win" />
+      <recent name="$PROJECT_DIR$/Version5_1_5/win" />
+      <recent name="$PROJECT_DIR$/Version5_1_5/mac" />
+      <recent name="$PROJECT_DIR$/Version 5_1_4/win" />
+      <recent name="$PROJECT_DIR$/Version 5_1_4/mac" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -247,7 +263,12 @@
       <workItem from="1600267483757" duration="1028000" />
       <workItem from="1601487531184" duration="1290000" />
       <workItem from="1601908650694" duration="2195000" />
-      <workItem from="1602279898580" duration="5125000" />
+      <workItem from="1602279898580" duration="5770000" />
+      <workItem from="1604343175852" duration="64000" />
+      <workItem from="1604343253343" duration="460000" />
+      <workItem from="1604352745670" duration="589000" />
+      <workItem from="1605106757274" duration="372000" />
+      <workItem from="1607550648012" duration="112000" />
     </task>
     <task id="LOCAL-00001" summary="Version 3.1.6">
       <created>1584728124752</created>
@@ -375,14 +396,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603206601700</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Version 5.1.5 release">
+      <created>1603223360272</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1603223360272</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27907000" />
+    <option name="totallyTimeSpent" value="30149000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="277" width="1429" height="830" extended-state="0" />
+    <frame x="526" y="321" width="1429" height="830" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -423,7 +451,8 @@
     <MESSAGE value="Version 5.1.0 Release" />
     <MESSAGE value="Version 5.1.1 release" />
     <MESSAGE value="Version 5.1.3 release" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 5.1.3 release" />
+    <MESSAGE value="Version 5.1.5 release" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 5.1.5 release" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
